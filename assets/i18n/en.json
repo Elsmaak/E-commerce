@@ -1,0 +1,16 @@
+{
+    "navBar": {
+        "home": "Home",
+        "cart": "Carts",
+        "product": "Products",
+        "brands": "Brands",
+        "logout": "Logout",
+        "lang": "Lang"
+    },
+    "category": {
+        "shopPopularCategories": "Shop Popular Categories"
+    },
+    "recentProduct": {
+        "searchByName": "Search By Name"
+    }
+}

@@ -1,0 +1,1 @@
+import{$ as o,Fb as r,Mb as s,nb as i,ob as a}from"./chunk-IV5DPHPN.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-categories"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(i(0,"p"),r(1,"categories works!"),a())}});let t=e;return t})();export{d as a};

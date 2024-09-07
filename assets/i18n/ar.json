@@ -1,0 +1,16 @@
+{
+    "navBar": {
+        "home": "الرئيسية",
+        "cart": "المشتريات",
+        "product": "المنتجات",
+        "brands": "العلامات التجاريه",
+        "logout": "تسجيل الخروج",
+        "lang": "غ"
+    },
+    "category": {
+        "shopPopularCategories": "الاقسام المشهوره"
+    },
+    "recentProduct": {
+        "searchByName": "البحث بالاسم"
+    }
+}
